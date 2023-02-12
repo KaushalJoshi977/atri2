@@ -1,5 +1,5 @@
 ## Setup commands
-
+Created the frontend of a webite using atri framework.
 1. Clone the repo.
 2. Open the project directory => cd atri2
 3. Install python 3
