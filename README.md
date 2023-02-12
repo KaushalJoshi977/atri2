@@ -7,3 +7,4 @@
 5. Create Virtual environment shell => pipenv shell
 6. Install atri => pipenv install atri
 7. Start atri => atri start
+![Web capture_12-2-2023_131534_localhost](https://user-images.githubusercontent.com/118073045/218299212-405a4598-234f-4086-bbe2-dfce9c613f30.jpeg)
